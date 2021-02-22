@@ -1,0 +1,6 @@
+C:\Users\Hack_Like_Pro\source\repos\EMS\EMS.Entities\bin\Debug\EMS.Entities.dll
+C:\Users\Hack_Like_Pro\source\repos\EMS\EMS.Entities\bin\Debug\EMS.Entities.pdb
+C:\Users\Hack_Like_Pro\source\repos\EMS\EMS.Entities\obj\Debug\EMS.Entities.csprojAssemblyReference.cache
+C:\Users\Hack_Like_Pro\source\repos\EMS\EMS.Entities\obj\Debug\EMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Hack_Like_Pro\source\repos\EMS\EMS.Entities\obj\Debug\EMS.Entities.dll
+C:\Users\Hack_Like_Pro\source\repos\EMS\EMS.Entities\obj\Debug\EMS.Entities.pdb

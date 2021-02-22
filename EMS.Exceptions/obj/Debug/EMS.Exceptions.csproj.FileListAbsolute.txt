@@ -1,0 +1,6 @@
+C:\Users\Hack_Like_Pro\source\repos\EMS\EMS.Exceptions\bin\Debug\EMS.Exceptions.dll
+C:\Users\Hack_Like_Pro\source\repos\EMS\EMS.Exceptions\bin\Debug\EMS.Exceptions.pdb
+C:\Users\Hack_Like_Pro\source\repos\EMS\EMS.Exceptions\obj\Debug\EMS.Exceptions.csprojAssemblyReference.cache
+C:\Users\Hack_Like_Pro\source\repos\EMS\EMS.Exceptions\obj\Debug\EMS.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Hack_Like_Pro\source\repos\EMS\EMS.Exceptions\obj\Debug\EMS.Exceptions.dll
+C:\Users\Hack_Like_Pro\source\repos\EMS\EMS.Exceptions\obj\Debug\EMS.Exceptions.pdb
